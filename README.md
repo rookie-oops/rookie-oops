@@ -1,7 +1,3 @@
-### 博客地址 ![hexo Badge](https://img.shields.io/badge/-博客地址-0E83CD?style=flat&logo=hexo&logoColor=white)   
-
----
-
 <!--   欢迎图片 -->
 ![](assets/Bottom_up.svg)
 
@@ -18,8 +14,9 @@
 
 ![](./src/header_.png)
 <!--   Java图片 -->
-
-
+<p align="center">
+![hexo Badge](https://img.shields.io/badge/-博客地址-0E83CD?style=flat&logo=hexo&logoColor=white)   
+</p>
 
 <!--   个人介绍 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Binwen+Wu;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Open+Source+enthusiast+;OGC+community+member)](https://git.io/typing-svg)
