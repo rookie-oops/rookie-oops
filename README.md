@@ -14,9 +14,7 @@
 
 ![](./src/header_.png)
 <!--   博客地址 -->
----
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
----
+  *HEXO 博客地址* 
 <p align="center">
 <a href="https://binwenwu.github.io/"><img src="https://raw.githubusercontent.com/binwenwu/binwenwu/764d795e47455aa3d3403cf8104b7783a1e2e46e/assets/icon/hexo-color.svg" height="45" width="45"></a>
 </p>
