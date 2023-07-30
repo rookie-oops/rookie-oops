@@ -12,7 +12,7 @@
 
 <!--   my-header-img -->
 ![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://img0.baidu.com/it/u=3705150710,3501402283&fm=253&fmt=auto&app=138&f=PNG?w=500&h=288" align="right" height="48" width="48" ></a>
+<a href="https://www.python.org/"><img src="https://img0.baidu.com/it/u=3705150710,3501402283&fm=253&fmt=auto&app=138&f=PNG" align="right" height="48" width="48" ></a>
 
 
 <!--   my-ticker -->    
