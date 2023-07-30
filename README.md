@@ -33,7 +33,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=binwenwu.binwenwu" alt="visitors"/>   
 </p>
 
-
+<!--  Header图 -->
 ![](./src/header_.png)
 
 <!--  个人信息介绍 -->
@@ -45,7 +45,6 @@
 ### 🤺 About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
-
 <p>&emsp;&emsp;大家好，我是小吴同学。</p>
 <p>&emsp;&emsp;热爱编程、游戏、篮球、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的独立开发者。</p>
@@ -63,8 +62,6 @@
 * <a href='https://binwenwu.github.io/' target='_blank'>如何使用Hexo搭建个人博客</a> - 2023-07-30
 <!-- END_SECTION:blog -->
 </td></tr>
-
-
 
 </table>
 
