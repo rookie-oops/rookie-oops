@@ -13,9 +13,9 @@
 
 
 ![](./src/header_.png)
-<!--   Java图片 -->
-<p align="center">
-![hexo Badge](https://img.shields.io/badge/-博客地址-0E83CD?style=flat&logo=hexo&logoColor=white)   
+<!--   博客地址 -->
+<p align="center"> 
+<a href="https://binwenwu.github.io/"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
 </p>
 
 <!--   个人介绍 -->
