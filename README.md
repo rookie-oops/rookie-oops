@@ -1,4 +1,4 @@
-### 博客地址 ![javascript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)   
+### 博客地址 ![hexo Badge](https://img.shields.io/badge/-博客地址-0E83CD?style=flat&logo=hexo&logoColor=white)   
 
 ---
 
