@@ -137,8 +137,8 @@ width="30%">
 
 
 ## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history&type=Date)](https://star-history.com/#star-history/star-history&Date)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=binwenwu/binwenwu&type=Date)](https://star-history.com/#binwenwu/binwenwu&Date)
 
 
 
