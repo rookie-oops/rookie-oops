@@ -14,7 +14,7 @@
 
 ![](./src/header_.png)
 <!--   Java图片 -->
-<a href="https://www.java.com/zh-CN/"><img src="https://img1.baidu.com/it/u=1573947570,3589602121&fm=253&fmt=auto&app=120&f=PNG" align="right" height="64" width="64" ></a>
+
 
 
 <!--   个人介绍 -->
