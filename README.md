@@ -12,7 +12,7 @@
 
 <!--   my-header-img -->
 ![](./src/header_.png)
-<a href="https://www.python.org/"><img src="[[https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg](https://upload.wikimedia.org/wikipedia/zh/thumb/8/88/Java_logo.png/220px-Java_logo.png)](https://upload.wikimedia.org/wikipedia/zh/thumb/8/88/Java_logo.png/220px-Java_logo.png)" align="right" height="48" width="48" ></a>
+<a href="https://www.python.org/"><img src="https://img0.baidu.com/it/u=3705150710,3501402283&fm=253&fmt=auto&app=138&f=PNG?w=500&h=288" align="right" height="48" width="48" ></a>
 
 
 <!--   my-ticker -->    
