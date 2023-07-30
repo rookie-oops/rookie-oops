@@ -15,8 +15,7 @@
 ![](./src/header_.png)
 <!--   博客地址 -->
 <p align="center">
-<h2>我的博客</h2>
-<a href="https://binwenwu.github.io/"><img src="https://raw.githubusercontent.com/binwenwu/binwenwu/764d795e47455aa3d3403cf8104b7783a1e2e46e/assets/icon/hexo-color.svg" height="45" width="45"></a>
+<a href="https://binwenwu.github.io/"><img src="https://raw.githubusercontent.com/binwenwu/binwenwu/764d795e47455aa3d3403cf8104b7783a1e2e46e/assets/icon/hexo-color.svg" height="45" width="45">我的博客</a>
 </p>
 
 <!--   个人介绍 -->
