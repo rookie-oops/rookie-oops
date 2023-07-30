@@ -78,20 +78,6 @@
 
 
 
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-   ```
-   
- 
-
-
 <div align="center">
 <summary>Trophy: Hackerrank Profile Trophy</summary>
 </div>
