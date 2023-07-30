@@ -2,7 +2,7 @@
 ![](assets/Bottom_up.svg)
 
 <!--   Github活动统计图 -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=binwenwu&theme=dracula)](https://github.com/binwenwu/binwenwu)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=binwenwu&theme=react-dark)](https://github.com/binwenwu/binwenwu)
 
 <!--   状态栏 -->
 <p align="center">
