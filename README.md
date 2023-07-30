@@ -60,7 +60,7 @@
 <a href="https://twitter.com/wbnwn41710" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/%E6%96%8C%E6%96%87-%E5%90%B4-435a42285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="mailto:binwenwu598@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="mailto:2390726421@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>    
+<a href="mailto:2390726421@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/binwenwu/binwenwu/ad41792c3c70cbffffb6ba030c66b07afcd1bd58/assets/icon/tencentqq.svg" alt="QQ" height="30" width="30" /></a>    
 </p>
 
 <div align="center">
