@@ -1,6 +1,9 @@
 <!--   欢迎图片 -->
 ![](assets/Bottom_up.svg)
 
+<!-- knock code pictures 敲代码的图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+
 <!--   Github活动统计图 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=binwenwu&theme=react-dark)](https://github.com/binwenwu/binwenwu)
 
