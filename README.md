@@ -1,5 +1,3 @@
-![图片](https://github.com/binwenwu/binwenwu/assets/97048872/c211a435-f533-41f7-986e-c390ac0aed9f)![图片](https://github.com/binwenwu/binwenwu/assets/97048872/5c62c6bc-b7f0-4e9c-ac4f-df1f3310b764)![](assets/Bottom_up.svg)
-
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/binwenwu/binwenwu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
