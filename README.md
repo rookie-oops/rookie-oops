@@ -44,7 +44,23 @@
 </p>
 
 <!--   个人介绍 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=820&lines=Hi+there+👋,+I+am+Binwen+Wu;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Open+Source+enthusiast+;OGC+community+member)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=820&lines=Hi+there+👋,+I+am+Binwen+Wu;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Open+Source+enthusiast+;OGC+community+member)](https://git.io/typing-svg) -->
+
+
+<!-- wakatime 统计 -->
+### 📊 WakaTime
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=binwenwu&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=binwenwu&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=binwenwu&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
 
 
 <!--   my-kaggle     
