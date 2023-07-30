@@ -35,17 +35,165 @@
 
 
 ![](./src/header_.png)
-<!--   博客地址 -->
----
-  *HEXO 博客地址*
----
-<p align="center">
-<a href="https://binwenwu.github.io/"><img src="https://github.com/binwenwu/binwenwu/blob/main/assets/icon/hexo%E4%B8%BB%E9%A1%B5.png?raw=true"></a>
-</p>
 
-<!--   个人介绍 -->
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=820&lines=Hi+there+👋,+I+am+Binwen+Wu;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Open+Source+enthusiast+;OGC+community+member)](https://git.io/typing-svg) -->
+#  🙋 Hello
 
+<table>
+<tr><td>
+
+<!-- About me 关于我 -->
+### 🤺 About Me
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+
+<p>&emsp;&emsp;大家好，我是小孙同学。</p>
+<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的独立开发者。</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+</td></tr>
+
+<tr>
+<td>
+  
+### 🏢 Work Experience
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+
+- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— Now
+  
+  - 工作岗位：Web前端开发工程师（初级）
+  - 工作内容：GIS相关
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
+
+- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
+  
+  - 工作岗位：Web前端开发实习生
+  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+
+</td>
+</tr>
+
+<tr><td>
+
+<!-- 近期博客 -->
+### 📃 Recent Blog
+  
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+
+<!-- START_SECTION:blog -->
+* <a href='https://blog.sunguoqi.com/archives/ohmyposh' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
+* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
+* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
+* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
+* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
+<!-- END_SECTION:blog -->
+
+</td></tr>
+
+<tr><td>
+
+### 🧠 Second Brain
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+
+<!-- START_SECTION:brain -->
+* <a href='https://brain.sunguoqi.com/web/guide/history.html' target='_blank'>前端开发简史</a> - 2023-03-25
+* <a href='https://brain.sunguoqi.com/web/guide/learn-road.html' target='_blank'>前端学习路线</a> - 2023-03-26
+* <a href='https://brain.sunguoqi.com/dv/basic/data/31.html' target='_blank'>选择合适方法对数据进行处理</a> - 2023-07-27
+* <a href='https://brain.sunguoqi.com/dv/basic/data/32.html' target='_blank'>可视化数据处理的一般方法</a> - 2023-07-27
+* <a href='https://brain.sunguoqi.com/dv/basic/data/33.html' target='_blank'>如何处理多元变量</a> - 2023-07-27
+<!-- END_SECTION:brain -->
+
+</td></tr>
+
+<tr><td>
+
+### 🤾‍♂️ Funny Soul
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
+
+<!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
+* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+<!-- END_SECTION:douban -->
+
+</td></tr>
+
+<tr><td>
+
+<!-- wakatime 统计 -->
+### 📊 WakaTime
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
+
+</td></tr>
+
+<tr><td>
+
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                274 commits         █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+🌆 Daytime                428 commits         ████████░░░░░░░░░░░░░░░░░   30.20 % 
+🌃 Evening                507 commits         █████████░░░░░░░░░░░░░░░░   35.78 % 
+🌙 Night                  208 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   207 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Wednesday                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Thursday                 155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Friday                   356 commits         ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+Saturday                 147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Sunday                   177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 8 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.46 % 
+TypeScript               5 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Vue.js                   2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+HTML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+
+🔥 Editors: 
+VS Code                  19 hrs 52 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  18 hrs 17 mins      ███████████████████████░░   92.04 % 
+Mac                      1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+```
+
+
+ Last Updated on 30/07/2023 01:24:08 UTC
+<!--END_SECTION:waka-->
+  
+</td></tr>
+</table>
 
 <!--   my-kaggle     
 ### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
