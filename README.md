@@ -39,37 +39,27 @@
 <!--  个人信息介绍 -->
 #  🙋 Hello
 <table>
-<tr><td>
 
+    
+<tr><td>
 <!-- About me 关于我 -->
 ### 🤺 About Me
-
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
-
 <p>&emsp;&emsp;大家好，我是小吴同学。</p>
 <p>&emsp;&emsp;热爱编程、游戏、篮球、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的独立开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
 </td></tr>
 
 
 <tr><td>
-
 <!-- 近期博客 -->
 ### 📃 Recent Blog
-  
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/ohmyposh' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
-* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
-* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
-* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
-* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
+* <a href='https://binwenwu.github.io/' target='_blank'>如何使用Hexo搭建个人博客</a> - 2023-07-30
 <!-- END_SECTION:blog -->
-
 </td></tr>
 
 
