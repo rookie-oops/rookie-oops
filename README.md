@@ -128,7 +128,7 @@ width="30%">
 
 ---
 
-#### Thanks for visiting :heart:
+### :heart: Thanks for visiting :heart:
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/binwenwu/count.svg">  
@@ -148,7 +148,6 @@ counting of visitors to this page in this section started from June 12, 2022
 ![](https://count.getloli.com/get/@binwenwu.github.readme)
 </br>
 
-[MIT](LICENSE)
 
 
 </p>
