@@ -18,7 +18,7 @@
 
 
 <!--   个人介绍 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Binwen+Wu;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Open+Source+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Binwen+Wu;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Open+Source+enthusiast+;OGC+community+member)](https://git.io/typing-svg)
 
 
 <!--   my-kaggle     
@@ -31,7 +31,7 @@
 -->
 
 
-<!--   my-skils -->
+<!--   技术栈 -->
 <!--   图标网址：https://simpleicons.org/ -->
 
 | Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -46,11 +46,11 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
+[![Binwen Wu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=binwenwu&theme=github-compact)](https://github.com/binwenwu/github-readme-activity-graph)
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+| ![binwenwu's github stats](https://github-readme-stats.vercel.app/api?username=binwenwu&show_icons=true&theme=radical&include_all_commits=true) | ![binwenwu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=binwenwu&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
 
