@@ -1,7 +1,7 @@
 <!-- dynamic typing effect 动态打字效果 -->
 <div align="center">
     <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小吴同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
 </div>
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
 
 <!--   欢迎图片 -->
-![](assets/Bottom_up.svg)
+<!-- ![](assets/Bottom_up.svg) -->
 
 <!--   Github活动统计图 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=binwenwu&theme=react-dark)](https://github.com/binwenwu/binwenwu)
