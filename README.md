@@ -1,3 +1,7 @@
+# linux卡片
+[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+# mac卡片
+[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 <!--   欢迎图片 -->
 ![](assets/Bottom_up.svg)
 
