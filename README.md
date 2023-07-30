@@ -49,7 +49,7 @@
 
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=binwenwu)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=binwenwu)](https://github.com/binwenwu/binwenwu)
 
 
 <!--   my-kaggle     
