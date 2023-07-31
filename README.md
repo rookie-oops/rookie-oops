@@ -59,7 +59,7 @@
 ### 📃 Recent Blog
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 <!-- START_SECTION:blog -->
-* <a href='https://binwenwu.github.io/' target='_blank'>如何使用Hexo搭建个人博客</a> - 2023-07-30
+* <a href='https://binwenwu.github.io/' target='_blank'>使用Hexo框架搭建的个人博客</a> - 2023-07-30
 <!-- END_SECTION:blog -->
 </td></tr>
 
