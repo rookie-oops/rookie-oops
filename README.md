@@ -67,7 +67,7 @@
 * <a href='https://my-bucket-uqm05wj-1319875991.cos-website.ap-guangzhou.myqcloud.com/archives/b035bcd6.html' target='_blank'>Docker 安装配置</a> - 2023-05-11
 
 * <a href='https://my-bucket-uqm05wj-1319875991.cos-website.ap-guangzhou.myqcloud.com/archives/d154fd87.html' target='_blank'>Linux 配置 NFS 共享存储服务器</a> - 2023-04-03
-* 
+  
 * <a href='https://my-bucket-uqm05wj-1319875991.cos-website.ap-guangzhou.myqcloud.com/archives/f5fad029.html' target='_blank'>VMware 虚拟机设置静态 IP</a> - 2023-03-14
 <!-- END_SECTION:blog -->
 </td></tr>
