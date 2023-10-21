@@ -60,15 +60,15 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 <!-- START_SECTION:blog -->
 
-* <a href='https://tankenqi.cn/archives/d862c611.html' target='_blank'>K8S 集群环境搭建 (Docker 作为容器)</a> - 2023-05-18
+* <a href='https://tankenqi.cn/posts/d862c611' target='_blank'>K8S 集群环境搭建 (Docker 作为容器)</a> - 2023-05-18
 
-* <a href='https://tankenqi.cn/archives/9c5d9ac5.html' target='_blank'>Docker 修改容器映射主机端口</a> - 2023-05-12
+* <a href='https://tankenqi.cn/posts/9c5d9ac5' target='_blank'>Docker 修改容器映射主机端口</a> - 2023-05-12
 
-* <a href='https://tankenqi.cn/archives/b035bcd6.html' target='_blank'>Docker 安装配置</a> - 2023-05-11
+* <a href='https://tankenqi.cn/posts/b035bcd6' target='_blank'>Docker 安装配置</a> - 2023-05-11
 
-* <a href='https://tankenqi.cn/archives/d154fd87.html' target='_blank'>Linux 配置 NFS 共享存储服务器</a> - 2023-04-03
+* <a href='https://tankenqi.cn/posts/d154fd87' target='_blank'>Linux 配置 NFS 共享存储服务器</a> - 2023-04-03
   
-* <a href='https://tankenqi.cn/archives/f5fad029.html' target='_blank'>VMware 虚拟机设置静态 IP</a> - 2023-03-14
+* <a href='https://tankenqi.cn/posts/f5fad029' target='_blank'>VMware 虚拟机设置静态 IP</a> - 2023-03-14
 <!-- END_SECTION:blog -->
 </td></tr>
 
