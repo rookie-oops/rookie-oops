@@ -60,7 +60,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 <!-- START_SECTION:blog -->
 
-* <a href='https://www.tankenqi.cn/posts/d862c611' target='_blank'>K8S 集群环境搭建 (Docker 作为容器)</a> - 2023-05-18
+* <a href='https://www.tankenqi.cn/posts/9d39de82' target='_blank'>K8S 集群环境搭建 (Containerd 作为容器)</a> - 2023-08-06
 
 * <a href='https://www.tankenqi.cn/posts/9c5d9ac5' target='_blank'>Docker 修改容器映射主机端口</a> - 2023-05-12
 
