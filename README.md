@@ -100,7 +100,9 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![Binwen Wu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=binwenwu&theme=github-compact)](https://github.com/binwenwu/github-readme-activity-graph)
+<!-- 链接失效 -->
+<!-- [![Binwen Wu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=binwenwu&theme=github-compact)](https://github.com/binwenwu/github-readme-activity-graph) -->
+
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
