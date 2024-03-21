@@ -44,7 +44,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/u%3D4117993906%2C465529713%26fm%3D253%26fmt%3Dauto%26app%3D138%26f%3DJPEG.webp" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/20240321131856.png" />
 <p>&emsp;&emsp;大家好，我是小吴同学。</p>
 <p>&emsp;&emsp;热爱编程、游戏、篮球、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学与IT互联网事业，同时热衷于GIS领域的开发，励志成为一名优秀的独立开发者。</p>
