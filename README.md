@@ -130,40 +130,6 @@ width="30%">
 </p>
 
 
-
----
-
-
-<!-- Belarus - My Home-->
-
- ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [114.2,30.5],
-             [113.45,23.02]
-         ]
-       ]
-     }
-   }
- ]
-}
-
- ```
-
-
-
-
 ---
 <!-- 
 <p align="center"> 
