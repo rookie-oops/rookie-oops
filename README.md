@@ -14,9 +14,6 @@
 <!--   欢迎图片 -->
 <!-- ![](assets/Bottom_up.svg) -->
 
-<!--   Github活动统计图 -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=binwenwu&theme=react-dark)](https://github.com/binwenwu/binwenwu)
-
 <!--   状态栏 -->
 <p align="center">
     <a href="https://github.com/binwenwu/binwenwu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
