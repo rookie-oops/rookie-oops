@@ -25,22 +25,20 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
-<!-- Your title -->
+
 ## Hi, I'm Binwen Wu, a Developer 🚀 from China.
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/binwenwu)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](binwenwu123@outlook.com)
 ![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
 &nbsp;
-<!-- Talking about you -->
+
 **🙆 Talking about Personal Stuffs:**
 
-<!-- Any image aligned to the right. Beware the width -->
+
 <img width="55%" align="right" alt="Github" src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [3DSIM_WEB](https://github.com/binwenwu/3DSIM_WEB)
@@ -53,17 +51,13 @@ You can use the website to generate badges: https://shields.io/
 
 **👨‍💻 Languages and Tools:** 
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
+
 <p>
   <a href="https://github.com/binwenwu/binwenwu">
     <img width="55%" align="right" alt="Binwen Wu's github stats" src="https://github-readme-stats.vercel.app/api?username=binwenwu&show_icons=true&hide_border=true" />
   </a>
 
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
+
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
