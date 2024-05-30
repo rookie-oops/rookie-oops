@@ -77,7 +77,7 @@
 </p>
 
 **📃 Recent Blog**
-<img width="35%" align="right" alt="Github" src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/fun-3d-illustration-cartoon-kid-with-vr-helmet.png" />
+<img width="30%" align="right" alt="Github" src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/fun-3d-illustration-cartoon-kid-with-vr-helmet.png" />
 
 * <a href='https://www.tankenqi.cn/posts/9d39de82' target='_blank'>Building a K8S cluster environment (Containered as a container)</a> - 2023-08-06
 
