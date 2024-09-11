@@ -1,28 +1,28 @@
 <div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
 
