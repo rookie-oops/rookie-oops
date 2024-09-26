@@ -27,7 +27,7 @@
 
 
 
-## Hi, I'm Binwen Wu, a Developer 🚀 from China.
+## Hi, I'm NerdNinja, a Developer 🚀 from China.
 
 
 
