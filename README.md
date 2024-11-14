@@ -43,7 +43,7 @@
 
 - 👨🏽‍💻 I’m currently working on [3DSIM_WEB](https://github.com/binwenwu/3DSIM_WEB)
 - 🌱 I’m currently learning Scala and Continuous Integration(CircleCI)
-- 👯 Undergraduate "night snack" students certified by OGC experts
+- 👯 Undergraduate "supper" students certified by OGC experts 🤪
 - 🤔 I’m looking for help with Design Pattern 😭
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I have a degree in Remote sensing science and technology
