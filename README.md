@@ -39,7 +39,7 @@
 **🙆 Talking about Personal Stuffs:**
 
 
-<img width="55%" align="right" alt="Github" src="https://cdn.jsdelivr.net/gh/rookie-oops/picgo_demo/img/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [](https://github.com/rookie-oops/)
 - 🌱 I’m currently learning SLAM and 3DV.
