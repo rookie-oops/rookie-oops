@@ -41,13 +41,12 @@
 
 <img width="55%" align="right" alt="Github" src="https://cdn.jsdelivr.net/gh/rookie-oops/picgo_demo/img/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [3DSIM_WEB](https://github.com/rookie-oops/3DSIM_WEB)
-- 🌱 I’m currently learning Scala and Continuous Integration(CircleCI)
-- 👯 Undergraduate "supper" students certified by OGC experts 🤪
+- 👨🏽‍💻 I’m currently working on [](https://github.com/rookie-oops/)
+- 🌱 I’m currently learning SLAM and 3DV.
 - 🤔 I’m looking for help with Design Pattern 😭
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I have a degree in Remote sensing science and technology
-- 📫 How to reach me: rookie-oops@whu.edu.cn
+- 📫 How to reach me: ke-yang@whu.edu.cn
 
 **👨‍💻 Languages and Tools:** 
 
@@ -75,18 +74,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
-
-**📃 Recent Blog**
-<img width="25%" align="right" alt="Github" src="https://cdn.jsdelivr.net/gh/rookie-oops/picgo_demo/img/fun-3d-illustration-cartoon-kid-with-vr-helmet.png" />
-
-* <a href='https://www.tankenqi.cn/posts/37' target='_blank'>Building a K8S cluster environment (Containered as a container)</a> - 2023-08-06
-
-* <a href='https://www.tankenqi.cn/posts/20' target='_blank'>Docker modifies container mapping host ports</a> - 2023-05-12
-
-* <a href='https://www.tankenqi.cn/posts/1' target='_blank'>Docker installation configuration</a> - 2023-05-11
-
-* <a href='https://www.tankenqi.cn/posts/24' target='_blank'>Linux configuration for NFS shared storage server</a> - 2023-04-03
-
 
 **🏆 Trophy: Github Profile Trophy**
 
