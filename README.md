@@ -72,7 +72,7 @@
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
 </p>
 
 **🏆 Trophy: Github Profile Trophy**
