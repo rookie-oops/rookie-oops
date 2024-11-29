@@ -68,7 +68,7 @@
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21.svg"></code>
