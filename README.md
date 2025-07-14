@@ -43,7 +43,6 @@
 
 - 👨🏽‍💻 I’m currently working on [](https://github.com/rookie-oops/)
 - 🌱 I’m currently learning SLAM and 3DV.
-- 🤔 I’m looking for help with Design Pattern 😭
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I have a degree in Remote sensing science and technology
 - 📫 How to reach me: ke-yang@whu.edu.cn
